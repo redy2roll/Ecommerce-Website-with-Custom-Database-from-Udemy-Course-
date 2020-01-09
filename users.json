@@ -1,0 +1,60 @@
+[
+  {
+    "email": "test@test.com"
+  },
+  {
+    "email": "test1@test.com",
+    "password": "password",
+    "id": "2846cd2e"
+  },
+  {
+    "email": "test2@test.com",
+    "password": "password",
+    "id": "098d03bf"
+  },
+  {
+    "email": "mreds@test.com",
+    "password": "oysters",
+    "id": "466a8ce3"
+  },
+  {
+    "email": "test5@test.com",
+    "password": "afeccacb614e0ac947c0b4473ab44106359c0b1270cd65d38fe6cbe42e06759fc1e6f209ef374e64e49d872d32ffee597449b8fc4b54d11523e4fd24b0dffda5.1b4b3c54c975b126",
+    "id": "3ca4d8da"
+  },
+  {
+    "email": "test6@test.com",
+    "password": "b08b5832982db65e0ddf65e6d3459276f60de3671b22dd6e6d6e540770fa031a19a035038c6b30f4bfeb9e6260b01a5e4e316ddc9255268ef70a52c97bd8f256.dc0ea61e71910708",
+    "id": "b7c2f819"
+  },
+  {
+    "email": "test7@test.com",
+    "password": "823eb06b9a6d205e3cb3e437a023b809fe5ae72b888920f7dca87fb23f25f69f64976a38786faff06366e29fc335edb6276a3cc3de33dccf3d0a338bd66140ee.5774f39747165a45",
+    "id": "9cd40134"
+  },
+  {
+    "email": "test10@test.com",
+    "password": "2bafff5b75eaca82ae841e61b341d0bc9c2ee722d3d00d009a2f3c53830d0b74811291832c029abe1ecb04ef0b4ca70bf24f563d122e73d53ba7070b3a545119.ed179d88069fe281",
+    "id": "9aff905c"
+  },
+  {
+    "email": "test@6.com",
+    "password": "c399592c5713039088d9acc72a7caa3f667ec39c108123412c60160c4583a6005b1834fb5cafee653174d74a7b3e53e58bbfcef9bd53254db95d8ae473c809fb.d276b043c61fd3ac",
+    "id": "187e5e3c"
+  },
+  {
+    "email": "test10@test.com",
+    "password": "bf899728abc38b85f69b336ed5acdeb473d25a339543d3e77fa59f0a7f49044be0fd61387967a39a8577190af096e3dbd0e8f8d63493a7c853d54ab8721556f5.466cbc06bd2f6f76",
+    "id": "0be7af62"
+  },
+  {
+    "email": "test10@test.com",
+    "password": "428cc9f1c32ad28a13c5d3f3d0281a7672f32919dc19b03925e7c8c7d80cc8f5ef03ebdb7f020ab1fdf2101a85d0f84e7c33f1eeae71a1fbe5d1d035763811a9.1e164c80d28bc520",
+    "id": "f6fc503d"
+  },
+  {
+    "email": "whatsthat@gmail.com",
+    "password": "eda085d6d9edd8c130ecc0abf5e938c6b8358df1e6ecb45ba000001867346f3d7276e79ff367af53fc7a68af6510775bf90dfa1c45b73a21a9112b596a0662c9.8f766dd1cc7846c9",
+    "id": "731ad1a6"
+  }
+]
